@@ -1,0 +1,2701 @@
+{
+  "totalCount": 165,
+  "totalCountDescription": "165",
+  "displayStartCount": 0,
+  "displayStartCountDescription": "0",
+  "displayEndCount": 165,
+  "displayEndCountDescription": "300",
+  "bestPractices": [
+    {
+      "bestPracticeId": "0629ec15-7a54-4a52-81a9-0c58f6361236",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Adopt agile methodologies with users engaged in all technology and business projects.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3166",
+      "approach": [
+        "Implement Agile training across both IT and business teams, form cross-functional Agile teams, and ensure continuous collaboration through regular sprints, stand-ups, and reviews involving all stakeholders."
+      ]
+    },
+    {
+      "bestPracticeId": "0c3a8817-c80e-437a-813d-c249ded4de67",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Adopt component-based architecture and deploy infrastructure as a code for scalability.",
+      "businessProcess": "Infrastructure Development & Deployment",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3206",
+      "approach": [
+        "Transition to a component-based architecture by implementing a scalable infrastructure, using infrastructure-as-code practices to automate deployments and increase system flexibility."
+      ]
+    },
+    {
+      "bestPracticeId": "672aadd6-43b2-4dcf-a8ce-0ca2de29267a",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Align demand requests with a well-established technology road map.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3195",
+      "approach": [
+        "Develop a clear process for aligning project requests with the established technology roadmap, ensuring that all new demands are vetted for alignment before being prioritized."
+      ]
+    },
+    {
+      "bestPracticeId": "4689c0cd-9bc1-45a1-95f2-800d96d30e93",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Align demand with an established technology roadmap tracked by business and technology leadership.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Cash Flow, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2723",
+      "approach": [
+        "Assess the current demand management process and assess performance.",
+        "Ensure there are well-defined and standardized filtering criteria for incoming requests to minimize noise.",
+        "Ensure that a forum has been established with business stakeholder participation to review, approve and prioritize requests.",
+        "Ensure there is a mechanism to effectively schedule projects.",
+        "Establish a feedback loop for customer satisfaction to ensure the process is suitable."
+      ]
+    },
+    {
+      "bestPracticeId": "4e6eea95-3cdd-405e-a36c-2a28660b57df",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Align regional and global technology strategies with a single corporate strategy.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy",
+      "levelOfEffort": "Medium",
+      "timeFrame": "> 12 Months",
+      "code": "3199",
+      "approach": [
+        "Conduct workshops with regional IT teams to understand local needs, then create a unified global IT strategy that accommodates regional variations while maintaining consistency with corporate goals."
+      ]
+    },
+    {
+      "bestPracticeId": "84dd2ac7-1d6a-45b9-966b-cfb7ae81efcc",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Align resources to functions based on their skills, experience and career plans.",
+      "businessProcess": "Organization: Applications, Data, and Analytics",
+      "serviceDeliveryComponent": "Human Capital, Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2608",
+      "approach": [
+        "Identify technology stacks within the organization that would support the business functions.",
+        "Identify and inventory the staff skill set and career plans.",
+        "Assign resources to the technology owners&#39; groups based on staff skill set.",
+        "Perform periodic evaluations to ensure alignment continues to stay relevant."
+      ]
+    },
+    {
+      "bestPracticeId": "c2d618d8-62eb-4bc4-a1fc-d949dfcb8b12",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Align the technology and business organizations functionally and regionally through formal processes with roles and responsibilities.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Increase Customer Satisfaction, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2630",
+      "approach": [
+        "Evaluate the current-state organizational alignment between business and technology management at all levels.",
+        "Define the future-state aligned organization, along with roles and responsibilities.",
+        "Establish a technology balanced scorecard aligned with an enterprise scorecard with success measured by relevant metrics."
+      ]
+    },
+    {
+      "bestPracticeId": "46fb8413-9095-436d-afc7-77c1f2465e00",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Align the technology portfolio with long-term business strategies.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3191",
+      "approach": [
+        "Create a technology roadmap that aligns with long-term business goals, regularly review it with business stakeholders, and adjust project priorities based on changes in the business environment."
+      ]
+    },
+    {
+      "bestPracticeId": "1634fe9c-bd86-4116-9a35-2d7605670f24",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Analyze the impact of change closely and use results to plan approach.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2755",
+      "approach": [
+        "Identify affected parties.",
+        "Gather required data (qualitative and quantitative).",
+        "Run impact analysis that clearly identifies the change magnitude and probability.",
+        "Develop plans for how to address each scenario."
+      ]
+    },
+    {
+      "bestPracticeId": "e7fd8b1c-938d-458d-acdf-462682618a3b",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Analyze training needs and offer courses to address skill gaps and promote new tools.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Human Capital, Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2741",
+      "approach": [
+        "Define training needs.",
+        "Develop applicable courses.",
+        "Create course catalog of training offerings.",
+        "Define process to continuously train employees, as well as identify gaps."
+      ]
+    },
+    {
+      "bestPracticeId": "af730674-aaaf-4258-b616-d54c3dc13dad",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Approve all changes to production through a change management review board, with defined change windows.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Manage Risk, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2601",
+      "approach": [
+        "Create a change management review board based on the organizational requirements.",
+        "Assign approval rights to the members of the review board.",
+        "Create stage gates in the project development life cycle to process all changes and releases through the review board prior to production deployment."
+      ]
+    },
+    {
+      "bestPracticeId": "44c9a4bc-818a-470d-80fe-d7000f833250",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Approve production changes through a formal review board with detailed tracking and predefined change windows.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Manage Risk, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3259",
+      "approach": [
+        "Form a change approval board (CAB); define clear processes and windows for changes; ensure detailed tracking of change requests and outcomes."
+      ]
+    },
+    {
+      "bestPracticeId": "783180f0-83a5-4893-95ef-536031fa6ac1",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Assign technology owners to oversee end-to-end business processes.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3308",
+      "approach": [
+        "Identify technology owners for each core process; empower them with decision-making authority; align their goals with business outcomes."
+      ]
+    },
+    {
+      "bestPracticeId": "d3fa6ec4-4efb-4007-87ae-b6d61abab748",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Automate Internet of Things (IoT) capabilities, focusing on end-to-end coordination and continuous improvement.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3317",
+      "approach": []
+    },
+    {
+      "bestPracticeId": "a202a33c-26eb-4c8d-9871-22df295c8d20",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Automate internet of things (IoT) capabilities, including big data management, business intelligence and data analysis.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "2628",
+      "approach": [
+        "Evaluate the current operational environment to identify IoT opportunities.",
+        "Assess opportunities to equip products or assets with logging capabilities to register events about itself or the environment and store information.",
+        "Develop a strategy for an automated production/warehouse environment as appropriate.",
+        "Evaluate advanced self-awareness and self-management capabilities to develop a highly automated production/warehouse environment.",
+        "Evaluate other highly automated capabilities, including big data management, business intelligence and data analysis, etc."
+      ]
+    },
+    {
+      "bestPracticeId": "de6f54a3-86c2-435d-9e0e-3f2269c3519a",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Benchmark costs to ensure they are at the appropriate levels; allocate back to business units.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Cash Flow, Improve Productivity, Provide Better Information",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2705",
+      "approach": [
+        "Assess the current state of the service delivery model and review associated performance metrics to identify areas of improvement.",
+        "Ensure a technology service catalog is defined with service level and cost options.",
+        "Benchmark costs and services against third-party providers to evaluate the best sourcing strategy.",
+        "Provide business units with cost transparency."
+      ]
+    },
+    {
+      "bestPracticeId": "f97778c8-3c83-41c5-b3c4-aa0647cd12fe",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Benchmark functions before implementing major systems to ensure efficiency gains.",
+      "businessProcess": "Application Update Development & Deployment",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3302",
+      "approach": [
+        "Benchmark current processes against industry standards; identify inefficiencies; use findings to guide system implementations for maximum efficiency gains."
+      ]
+    },
+    {
+      "bestPracticeId": "3fe1d2bc-669c-462c-a337-ebca382267d4",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Build flexibility into service contracts, and perform benchmarks to ensure  competitive market rates.",
+      "businessProcess": "Technology Vendor Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Partnering",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Improve Cash Flow, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2747",
+      "approach": [
+        "Identify applicable contracts.",
+        "Develop contracting strategy for contract areas, reduce length and co-terminate as applicable.",
+        "Include terms and conditions in all contracts that increase flexibility.",
+        "Set a price benchmarking cadence.",
+        "Develop relationships with key strategic partners.",
+        "Develop exit strategies and backups."
+      ]
+    },
+    {
+      "bestPracticeId": "16891b1b-5afb-468b-8079-139739c9d45b",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Centralize all service-level agreements (SLAs) and track metrics for incident management effectiveness.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3261",
+      "approach": [
+        "Create a centralized SLA repository; implement tools to track and report SLA performance; review SLAs periodically for effectiveness and updates."
+      ]
+    },
+    {
+      "bestPracticeId": "2f9333bd-ba1f-44f9-8ed8-314f506ac72c",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Centralize commodity processes while keeping higher-value teams customer-facing and collocated with business teams.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Best",
+      "themes": "Improve Customer Satisfaction, Improve Productivity, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3230",
+      "approach": [
+        "Identify commodity processes; consolidate under a shared services model; ensure customer-facing teams remain integrated with business units."
+      ]
+    },
+    {
+      "bestPracticeId": "7bd8e153-fc37-415d-b11b-2af4e830b73f",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Centralize knowledge into an easily accessible repository, measure effectiveness and enact continuous improvement processes.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Human Capital, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Customer Satisfaction, Improve Quality, Manage Risk, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2745",
+      "approach": [
+        "Develop centralized and web-based knowledge management repository.",
+        "Define processes to regularly update knowledge articles, and assign owners/subject matter experts."
+      ]
+    },
+    {
+      "bestPracticeId": "536dbd10-f364-4556-b700-89b61a793265",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Collaborate between business and technology to jointly design new processes.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Enhance Sourcing Effectiveness, Improve Quality",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3189",
+      "approach": [
+        "Facilitate regular workshops where IT and business teams jointly design and review new processes, ensuring that technology considerations and business needs are equally prioritized."
+      ]
+    },
+    {
+      "bestPracticeId": "5590ef05-6cb6-4d04-aefd-bc2591203cd1",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Conduct testing through strong quality assurance (QA) governance and processes to minimize defects.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2594",
+      "approach": [
+        "Establish an independent QA organization in the IT governance organization.",
+        "Implement strategy for leveraging industry best practices for conducting testing (including automation).",
+        "Create stage gates in the project life cycle to have formal handover of code base to test from development team to QA team after approval.",
+        "Review best practices for testing and automation for improvement of processes periodically."
+      ]
+    },
+    {
+      "bestPracticeId": "4b68ee1d-2f32-43c7-8116-0314ad7b3563",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Connect issues to development methodology for continuous improvement in development and testing processes.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Provide Better Information, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2605",
+      "approach": [
+        "Create a well-defined plan for closed-loop stakeholder communications.",
+        "Conduct root cause analysis and track results.",
+        "Maintain and utilize knowledge items.",
+        "Tie back issues to development methodology for continuous improvement in development and testing processes.",
+        "Create a metrics strategy to measure effectiveness of incident management program."
+      ]
+    },
+    {
+      "bestPracticeId": "6367a555-3b07-4bb7-a8f1-518972365cca",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Consolidate data centers while ensuring regional replication for bandwidth optimization.",
+      "businessProcess": "Data Center Management (Storage & Compute)",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Manage Risk, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3255",
+      "approach": [
+        "Plan for phased data center consolidation; ensure regional replication and disaster recovery plans are in place; test bandwidth optimization techniques."
+      ]
+    },
+    {
+      "bestPracticeId": "46bd44ef-ed80-41ca-ae21-f91325f22dee",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Consolidate enhancements into periodic releases for efficient project management.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3190",
+      "approach": [
+        "Implement a structured release management process that consolidates minor updates into quarterly releases, ensuring business teams are aware of the release schedule and the updates that are being delivered."
+      ]
+    },
+    {
+      "bestPracticeId": "a3afcb92-2ba4-4151-b990-e7f8d1c9d730",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Construct a well-defined application strategy with standardized technology stacks.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Service Partnering, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2732",
+      "approach": [
+        "Consult with the enterprise architecture team to identify a core ERP system that would best enable IT to support the business vision and strategy.",
+        "Integrate all supporting applications for advanced functionality with the core ERP system.",
+        "Review the application strategy periodically to ensure it is the optimal way of enabling IT and supporting business goals."
+      ]
+    },
+    {
+      "bestPracticeId": "2a5fa62d-43b0-46ab-a337-d3bea8317a63",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Create a change management approach focused on training and communications that includes all impacted functions.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2774",
+      "approach": [
+        "Create a change management office with ownership from business and technology leadership.",
+        "Establish policies and procedures for governing change in the organization.",
+        "Define metrics to measure change and make improvements based on lessons learned from each change experience."
+      ]
+    },
+    {
+      "bestPracticeId": "9b92c162-1760-4b97-b39e-39ae6d293895",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Create a data governance office with executive ownership and enforce data policies.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3251",
+      "approach": [
+        "Establish a data governance team; assign executive sponsors; enforce compliance with data management policies through audits and regular reviews."
+      ]
+    },
+    {
+      "bestPracticeId": "da59f04e-9e4e-4e7b-bf33-b4f5acd9a972",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Create a dedicated security team that is involved in projects and operations.",
+      "businessProcess": "Risk & Security  Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2600",
+      "approach": [
+        "Create a comprehensive security policy that must be adhered to by all the resources in the organization.",
+        "Implement stage gates in the software development life cycle to include security reviews and approvals.",
+        "Audit, review and revise the security policies&nbsp; periodically based on the latest industry standards."
+      ]
+    },
+    {
+      "bestPracticeId": "aa56ed4d-843a-49ec-887d-c28bc90c4e7a",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Create a formal data governance structure with guidance from senior leadership.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "2621",
+      "approach": [
+        "Establish a core team of data governance resources, and define their core mission, vision, and road map to establish mature data governance capabilities.",
+        "Define the initiatives that will help implement data governance process, policies and procedures.",
+        "Drive executive-level sponsorship and alignment, and provide feedback regularly on stakeholder status and performance updates."
+      ]
+    },
+    {
+      "bestPracticeId": "8c76f748-f3d5-4a2d-90f8-b1ce05f95b22",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Create a hosting strategy with a roadmap and standards that promote infrastructure standardization.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Cash Flow, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "Low",
+      "timeFrame": "4-12 Months",
+      "code": "2728",
+      "approach": [
+        "Assess the current state of the organizational hosting strategy and&nbsp; overall complexity of the technology infrastructure.",
+        "Ensure that there is a plan to standardize on a minimal set of hosting options to support the business while minimizing cost.",
+        "Ensure new projects are utilizing the defined standards and that there is a migration plan for legacy applications."
+      ]
+    },
+    {
+      "bestPracticeId": "d36340b4-a8f7-4a99-af07-8f775813fab6",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Create formal service desk processes to monitor and improve customer satisfaction across projects.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Customer Satisfaction, Improve Quality, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3248",
+      "approach": [
+        "Implement service desk management software; define customer satisfaction metrics; create feedback loops for continuous improvement of service delivery."
+      ]
+    },
+    {
+      "bestPracticeId": "9bb27f22-5b4c-445a-a6f7-0e02ce170657",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Create separate groups for innovation, update and support.",
+      "businessProcess": "Application Support",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Legacy",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2618",
+      "approach": [
+        "Assess current state of application maintenance.",
+        "Detail roles and responsibilities for development and maintenance teams.",
+        "Partner with business to prioritize maintenance requests and approach.",
+        "Identify service-level metrics and targets."
+      ]
+    },
+    {
+      "bestPracticeId": "048f9357-e25c-4661-8bed-bafb778fcc74",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Define a data quality strategy with controls, regular audits and continuous improvement.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3254",
+      "approach": [
+        "Establish data quality controls and metrics; schedule regular data audits; create a continuous improvement plan for data management."
+      ]
+    },
+    {
+      "bestPracticeId": "f3fa313c-bba3-4817-9687-6babe7974861",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Define career paths and succession plans  for employees.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Human Capital, Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Reduce Cycle Time, Reduce Error Rate",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2739",
+      "approach": [
+        "Develop organizational structure that aligns technology resources with the business.",
+        "Enact program that allows resources to gain exposure to different parts of the business.",
+        "Define and follow career paths for employees."
+      ]
+    },
+    {
+      "bestPracticeId": "fe9b50eb-5316-4ae7-9b3a-cd30755a337f",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Define service offerings with standardized costs and multiple service levels as appropriate.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Increase Customer Satisfaction, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2707",
+      "approach": [
+        "Assess the current state of the technology service catalog and work to define all the services provided by technology.",
+        "Load the service catalog into a IT service management application and integrate a service request process."
+      ]
+    },
+    {
+      "bestPracticeId": "81040125-1982-4af4-a998-16869b59bff3",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Define, standardize, streamline and regularly review core processes for opportunities to improve.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Enhance Sourcing Effectiveness, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2767",
+      "approach": [
+        "Identify core technology processes, standardizing and centralizing them across the organization.",
+        "Implement a regular cadence to review and improve core processes.",
+        "Identify/develop high-level guidelines for designing noncore processes."
+      ]
+    },
+    {
+      "bestPracticeId": "e90bb128-381f-4fec-8ce5-fc44b360a326",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Define technology architecture, tools strategy and data management approach with organizational adherence and ongoing investment.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2624",
+      "approach": [
+        "Establish a high-level baseline technology architecture with standardization objectives.",
+        "Review legacy technology, and define a consolidation and standardization road map/initiative.",
+        "Begin to audit compliance, and report on the progress to key technology and business stakeholders."
+      ]
+    },
+    {
+      "bestPracticeId": "458c3bf1-12e9-4cad-90b0-aae5df8307ce",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Define technology functions clearly, ensuring strategic and operational support with well-organized teams around core processes.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3227",
+      "approach": [
+        "Conduct a detailed analysis of existing functions; align roles with business strategy; define roles and responsibilities with clear reporting structures."
+      ]
+    },
+    {
+      "bestPracticeId": "88d54cf0-f17d-4922-8d28-ae1dcda7899d",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Define vendor sourcing and selection process as a collaboration of business and technology for all  projects.",
+      "businessProcess": "Technology Vendor Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Partnering",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2610",
+      "approach": [
+        "Conduct requirements gathering exercise for proposed new solution (the business).",
+        "Collaborate with technology to identify any current assets that can be leveraged to fulfill requirements.",
+        "Conduct analysis to understand sourcing options for the required tool (technology).",
+        "Determine integration points that would be required in the current application ecosystem for implementing the new tool (technology)."
+      ]
+    },
+    {
+      "bestPracticeId": "c00a1d09-f7b2-43bf-9d76-fe1703b0e03a",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Delineate clearly and align roles and responsibilities strategically between technology and the business.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Human Capital, Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Reduce Cycle Time",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2737",
+      "approach": [
+        "Identify the role of technology within the business (strategically and tactically).",
+        "Define roles and methods of engagement clearly between technology and the business.",
+        "Evaluate overlaps regularly to ensure objective alignment."
+      ]
+    },
+    {
+      "bestPracticeId": "8f310363-a68e-4258-8878-1b4774d40e06",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Delineate responsibilities and focus on new capabilities for technology functions vs. keeping the lights on.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2771",
+      "approach": [
+        "Identify activities that keep the lights on, and optimize, streamline, and outsource.",
+        "Identify value-added roles and staff with employees who have the required skill sets; provide training to address skill gaps.",
+        "Identify key metrics for each leader, and incorporate them in performance measurements/reviews."
+      ]
+    },
+    {
+      "bestPracticeId": "c9e9db0a-a47a-4805-8476-abf7a20ad45d",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop a centralized smart automation center of excellence (CoE) to coordinate automation efforts across business units.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Next",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3314",
+      "approach": [
+        "Establish an automation CoE to guide best practices; centralize governance of automation initiatives; monitor and measure the impact of automation efforts."
+      ]
+    },
+    {
+      "bestPracticeId": "fefdb906-1770-4274-85a6-1057e186825c",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop a close partnership between technology and the business to jointly design processes.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2740",
+      "approach": [
+        "Develop a partnership model between technology and the business.",
+        "Engage in partnerships actively to jointly design processes."
+      ]
+    },
+    {
+      "bestPracticeId": "3425462d-eecf-4446-8c57-bc5d3853d662",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop a hosting strategy with a funded road map of initiatives.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3198",
+      "approach": [
+        "Define a comprehensive hosting strategy that includes cloud and on-premise options, ensure long-term funding through a business case, and implement in phases based on critical business needs."
+      ]
+    },
+    {
+      "bestPracticeId": "129fd55e-6f0e-459e-a32a-f9528bb689e4",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop, align and regularly update the data management strategy (DMS) across the organization.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Improve Cash Flow, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2619",
+      "approach": [
+        "Develop the DMS jointly with the business.",
+        "Align strategy with the organizational goals and objectives.",
+        "Standardize data categorization across the organization.",
+        "Review and update the DMS regularly."
+      ]
+    },
+    {
+      "bestPracticeId": "5af6ae2c-ad92-4876-9daf-83418835a07a",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop an annual portfolio that aligns with strategic business planning through a cross-functional team.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Cash Flow, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "0-3 Months",
+      "code": "2717",
+      "approach": [
+        "Assess the current process for strategic business planning and annual technology portfolio development.",
+        "Ensure the process incorporates top-down business priorities and bottom-up requirements from technology groups.",
+        "Ensure key business stakeholders have shared ownership and present the recommended portfolio for approval.",
+        "Tie technology projects back to the return on investment of the business capabilities that they support to assess performance of the portfolio."
+      ]
+    },
+    {
+      "bestPracticeId": "7c119b70-7160-4fcb-94ea-7cdb40be1358",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop and track detailed business cases as part of capital expenditure projects.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Reduce Cycle Time",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2592",
+      "approach": [
+        "Establish standards for processing requirements through the project management tool (EPMO).",
+        "Require a valid business case for requesting a new requirement (business users).",
+        "Require approval for requirements that need significant material change for scope, schedule budget, etc. (senior leadership)."
+      ]
+    },
+    {
+      "bestPracticeId": "731ecc06-4ad7-4d35-8461-70f242d7d67a",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop a technology architecture and tools strategy, regularly aligning with business goals.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "3253",
+      "approach": [
+        "Assess current technology architecture; align with business objectives; develop a roadmap for future technology needs; review strategy annually."
+      ]
+    },
+    {
+      "bestPracticeId": "a730e9ad-f2ea-4579-a5a4-042760d0096d",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop a technology standards management process to proactively govern and rationalize supported technology.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Cash Flow, Improve Quality, Increase Customer Satisfaction, Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2727",
+      "approach": [
+        "Assess the current state of technology standards management and adherence to the defined standards.",
+        "Ensure that the technology architecture enables the business to quickly implement new technology-enabled business capabilities.",
+        "Ensure there is a process to allow for best-of-breed technology while taking advantage of core enterprise platforms.",
+        "Ensure there are processes that facilitate rationalization of redundant technologies."
+      ]
+    },
+    {
+      "bestPracticeId": "65765cb9-1ee8-4f17-8a3f-f957b52eb651",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop a technology strategy, which provides a roadmap and standards that promote complexity reduction.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Cash Flow, Improve Productivity, Improve Quality, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2729",
+      "approach": [
+        "Assess the current state of the technology strategy development process and identify opportunities for improvement.",
+        "Ensure that all the functional and geographic technology strategies align and roll up to a global strategy approved by executive management.",
+        "Ensure that all software solutions flow through the same governance model."
+      ]
+    },
+    {
+      "bestPracticeId": "e2251000-7a86-4397-b543-b00c3b72a5c1",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop clear career plans, rotating development and planning resources as necessary.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality",
+      "levelOfEffort": "Low",
+      "timeFrame": "4-12 Months",
+      "code": "3310",
+      "approach": [
+        "Create career development frameworks for technology and planning roles; establish rotation schedules for skill-building; ensure managers support rotations."
+      ]
+    },
+    {
+      "bestPracticeId": "090586ef-7572-47a6-b963-e45a03c81568",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop service-level agreements (SLAs) for both insourced and outsourced processes by GBS process area.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2783",
+      "approach": [
+        "Define expectations with process owners prior to transition",
+        "Define the SLAs as part of the contract for outsourcing arrangements",
+        "Develop appropriate reporting and audience to review performance",
+        "Define curative process and expectations for processes that fail to meet requirements"
+      ]
+    },
+    {
+      "bestPracticeId": "1c12dfd3-e137-439e-beaf-5dc1485c84b0",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Develop strong partner alliances while retaining strategic internal decision-making.",
+      "businessProcess": "Technology Vendor Management",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Enhance Sourcing Effectiveness, Increase Supplier Satisfaction",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3216",
+      "approach": [
+        "Foster strategic partnerships with external vendors for expertise and support, while ensuring key decisions remain within the organization to maintain control over business strategy."
+      ]
+    },
+    {
+      "bestPracticeId": "7279e614-b62e-4de0-bd04-a79d4a6c12b7",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Document risks with mitigation plans and actively manage with regular stakeholder communications.",
+      "businessProcess": "Risk & Security  Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2626",
+      "approach": [
+        "Ensure risks are documented as part of a standard project management methodology.",
+        "Require action plans to be documented and monitored through resolution.",
+        "Require risks and action plans to be reviewed with management during formal project and portfolio reviews."
+      ]
+    },
+    {
+      "bestPracticeId": "ac66a262-a00f-4f31-aeb4-233aa119f737",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Drive business outcomes through technology focused on growth, efficiency and collaboration.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3180",
+      "approach": [
+        "Establish a clear roadmap that aligns technology initiatives with business growth objectives, and regularly communicate the impact of technology projects on business performance to ensure alignment."
+      ]
+    },
+    {
+      "bestPracticeId": "579f77ea-41ad-4cd3-b71a-c80c89acf90e",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Embed change management as a core function with training and communication planning.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3218",
+      "approach": [
+        "Establish change management as a formalized process in every major project, providing training and communication resources to ensure all stakeholders are informed and supported throughout transitions."
+      ]
+    },
+    {
+      "bestPracticeId": "efa5db69-5a87-4400-b9b6-fbfad007ed48",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Embed DevOps across agile and product teams, ensuring close collaboration between development and support resources.",
+      "businessProcess": "Application Update Development & Deployment",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3307",
+      "approach": [
+        "Form cross-functional DevOps teams; provide training for development and support teams; align goals to foster collaboration; standardize DevOps practices."
+      ]
+    },
+    {
+      "bestPracticeId": "d9418021-00ea-4e11-93a1-69ca87857648",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Enact controls to maintain segregation of duties and ensure compliance.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Manage Risk, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2744",
+      "approach": [
+        "Define controls to comply with regulatory requirements and maintain segregation of duties.",
+        "Enact regular control review and update process."
+      ]
+    },
+    {
+      "bestPracticeId": "38cc6b27-df62-4f37-b64a-b87f20002cf0",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Encourage technology resources to drive innovation with functional counterparts.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3160",
+      "approach": [
+        "Create cross-functional teams that include both technology and business stakeholders, establishing regular innovation workshops or brainstorming sessions to identify and work on collaborative solutions."
+      ]
+    },
+    {
+      "bestPracticeId": "6a0d9cba-7ca3-4ef4-bf52-0635ac7142e3",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Engage architects in planning to drive standards and enable rapid application development.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "3301",
+      "approach": [
+        "Involve architects early in the project lifecycle; create architectural standards that align with development speed; conduct regular architecture reviews."
+      ]
+    },
+    {
+      "bestPracticeId": "6e60d419-0c1d-4a30-b19b-711da6350afb",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Engage architects in project planning to drive standards across solutions.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Provide Better Information, Reduce Cycle Time",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2731",
+      "approach": [
+        "Create shared service for enterprise architecture that is sufficiently staffed with solution architects to support the organization.",
+        "Conduct architecture assessment for each project (required as a control document) and get architecture team signoff before proceeding to the next phase."
+      ]
+    },
+    {
+      "bestPracticeId": "910a2843-c7c2-4ace-af93-74aae3e25f98",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Engage leaders in change initiatives and ensure they regularly communicate and listen to feedback.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2762",
+      "approach": [
+        "Identify leaders who will serve as change champions.",
+        "Provide leadership training.",
+        "Develop communications plan.",
+        "Execute change and communications plans."
+      ]
+    },
+    {
+      "bestPracticeId": "68b0598f-a9b6-4f68-8b35-916ac72c79e3",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Engage support team members to identify common trouble items as part of DevSecOps.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Human Capital, Service Design",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Increase Customer Satisfaction, Provide Better Information",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2607",
+      "approach": [
+        "Make process to create supporting documentation a part of the SDLC methodology.",
+        "Create the organization to have the application development group have distinct governance roles for project and support teams."
+      ]
+    },
+    {
+      "bestPracticeId": "185fec71-e84c-4b60-8477-5f92b4dbea84",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Engage support teams during project planning and execution to capture common troubleshooting issues.",
+      "businessProcess": "Application Support",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3246",
+      "approach": [
+        "Involve support teams early in the planning phase; create a feedback loop for lessons learned; document and track common support issues."
+      ]
+    },
+    {
+      "bestPracticeId": "5bd12a6f-683a-4dda-b3e7-455430fc44aa",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure a single system of record for each key data element, reducing redundancy.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3252",
+      "approach": [
+        "Identify key data elements and map their systems of record; integrate data management tools to enforce single system usage; decommission redundant systems."
+      ]
+    },
+    {
+      "bestPracticeId": "d29d346b-1134-46d7-adaf-facc7c58d460",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure extensive reporting capabilities are integrated with a robust data layer for seamless application access.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "3178",
+      "approach": [
+        "Invest in building a scalable data infrastructure, work with key business stakeholders to define reporting needs, and integrate reporting tools with real-time access to business data, ensuring proper training on how to use these tools."
+      ]
+    },
+    {
+      "bestPracticeId": "c980c57c-ea57-4869-8f6c-2fb052200a9f",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure leadership actively communicates and listens for feedback during change initiatives.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Manage Risk, Provide Better Information",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "3222",
+      "approach": [
+        "Engage leadership in regular communication with employees about change initiatives, using surveys, town halls, and feedback sessions to ensure two-way communication and buy-in."
+      ]
+    },
+    {
+      "bestPracticeId": "671fc7c3-d117-4be6-8066-3e75bffb9fc1",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure one system of record exists for key data elements, ",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2622",
+      "approach": [
+        "Define the core data elements, systems of record and data entry processes.",
+        "Consolidate and integrate applications to establish one system of record for each key data element.",
+        "Implement tools publish data and check quality.",
+        "Develop regular use of application program interfaces (APIs) and other programming techniques to avoid data redundancy."
+      ]
+    },
+    {
+      "bestPracticeId": "ac8f9028-bbb1-43f9-8ea4-4a39a3581368",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure organizationwide understanding and support of change management processes.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3212",
+      "approach": [
+        "Launch a change management program with clear communication plans, training sessions, and leadership engagement, ensuring employees at all levels understand the reasons for and benefits of upcoming changes."
+      ]
+    },
+    {
+      "bestPracticeId": "50c45813-4801-418f-953c-a97f4c3a1fb5",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure predictive issues are identified and incorporated into project tracking.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3244",
+      "approach": [
+        "Use project management tools with predictive analytics; integrate early warning systems into project dashboards to highlight risks."
+      ]
+    },
+    {
+      "bestPracticeId": "b5406c95-2482-483a-9c0d-eab90fb772d2",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure strong quality assurance (QA) processes to minimize defects during development.",
+      "businessProcess": "Application Update Development & Deployment",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3305",
+      "approach": [
+        "Define clear QA processes and testing standards; integrate testing throughout the SDLC; use automated testing where possible."
+      ]
+    },
+    {
+      "bestPracticeId": "7016855d-78a2-484a-baff-85fb7e5a51a4",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure strong support documentation is a key deliverable for all projects.",
+      "businessProcess": "Application Support",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Provide Better Information",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "3247",
+      "approach": [
+        "Make documentation a formal part of the project lifecycle; assign ownership for documentation; create templates for consistency across projects."
+      ]
+    },
+    {
+      "bestPracticeId": "ce31815a-69c1-422c-9def-11dce04b1169",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ensure the senior executive team reviews project trends to align with technology priorities.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Manage Risk, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3194",
+      "approach": [
+        "Establish regular executive-level meetings to review the progress and alignment of key IT projects, using data-driven reports to ensure projects are on track with business goals."
+      ]
+    },
+    {
+      "bestPracticeId": "c03af190-6d67-4892-b9de-cda5cc2813ec",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish a culture of change management through consistent leadership engagement, communication and feedback collection.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3265",
+      "approach": [
+        "Develop a change management framework; engage leadership consistently; create feedback loops for employees; communicate frequently and transparently."
+      ]
+    },
+    {
+      "bestPracticeId": "1bddeddb-77b0-4177-9333-51779cda8bc0",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish a dedicated security team engaged in both operations and project reviews.",
+      "businessProcess": "Risk & Security  Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3257",
+      "approach": [
+        "Create a security team that reports to both IT and project management; engage security early in project planning; conduct regular security reviews."
+      ]
+    },
+    {
+      "bestPracticeId": "3b585633-1f6f-4f06-9668-42f969bfd579",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish a formal data management strategy (DMS) with regular updates.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3250",
+      "approach": [
+        "Create a DMS outlining data governance policies; review and update the strategy regularly; ensure executive sponsorship and cross-departmental alignment."
+      ]
+    },
+    {
+      "bestPracticeId": "ef78dcfd-3ffa-45bf-8dd3-623242333472",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish a \"plan\" group as the entry point for business to engage with technology.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3162",
+      "approach": [
+        "Define clear roles and responsibilities for the &#39;Plan&#39; group, ensure proper communication channels between business units and IT, and provide training to streamline the intake process for technology requests."
+      ]
+    },
+    {
+      "bestPracticeId": "8ace6d85-3ca8-4346-8a51-cc81a7800247",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish a steering committee of technology and business leaders that meets regularly.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Manage Risk",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2590",
+      "approach": [
+        "Identify project sponsors (business and IT), as well as other officers and key leaders who will make up the steering committee.",
+        "Establish cadence of meeting for the committee with dedicated availability from the key members.",
+        "Provide detailed documentation of all decisions made during the meetings and convey to the delivery team."
+      ]
+    },
+    {
+      "bestPracticeId": "5014f8fb-a037-40b0-84b7-3846776eb116",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish security processes that monitor and protect all aspects of technology.",
+      "businessProcess": "Risk & Security  Management",
+      "serviceDeliveryComponent": "Organization and Governance, Technology",
+      "certificationStatus": "Legacy",
+      "themes": "Manage Risk",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2627",
+      "approach": [
+        "Ensure standard firewall, spam and antivirus packages are in place to protect the network or user systems.",
+        "Require desktop security policies lock down user systems to prevent unauthorized use.",
+        "Require system and application audits before systems are put into production.",
+        "Define processes to continuously monitor and respond to potential security issues.",
+        "Require intrusion detection measures to test for network and system vulnerabilities.",
+        "Require databases or network traffic to be encrypted to protect nonpublic information."
+      ]
+    },
+    {
+      "bestPracticeId": "15f368c6-9d8e-4834-844b-db4ea738887c",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish system development life cycle (SDLC) based on industry-leading practices with metrics to measure effectiveness.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2591",
+      "approach": [
+        "Identify best practices in SDLC currently prevalent in the industry.",
+        "Conduct fit analysis to ensure the practice will fulfill the organization&#39;s delivery objectives.",
+        "Establish governance measures to ensure all projects adopt the SDLC practices that are mandated by the program management office."
+      ]
+    },
+    {
+      "bestPracticeId": "c0408557-b182-4113-81b2-de80581fcd3d",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Establish target state for data governance, architecture, infrastructure and other applicable components.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Improve Cash Flow, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2620",
+      "approach": [
+        "Review available data.",
+        "Identify new data collection requirements in a joint effort with the business.",
+        "Develop data management program and road map to target state.",
+        "Identify data management leads and clearly define roles and responsibilities.",
+        "Review and align strategic goals with the business regularly."
+      ]
+    },
+    {
+      "bestPracticeId": "0808ff36-6eec-411e-8ca9-e9635a77d0ab",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Expand automation capabilities to enable continuous improvement and process reengineering.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Next",
+      "themes": "Improve Productivity, Improve Quality, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3312",
+      "approach": [
+        "Identify processes ripe for automation; deploy RPA tools and AI-powered automation; continuously monitor and improve automated processes."
+      ]
+    },
+    {
+      "bestPracticeId": "d156e1f9-7b2d-47f8-9afe-3b286fe45342",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Focus on developing new capabilities, and optimizing and outsourcing maintenance tasks.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3234",
+      "approach": [
+        "Prioritize high-value areas for internal development; identify and contract reliable vendors for maintenance tasks; create SLAs for outsourcing."
+      ]
+    },
+    {
+      "bestPracticeId": "fea1b958-465b-494c-814e-640566ac214b",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Focus on driving business outcomes and driving digital enablement.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Improve Cash Flow, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2703",
+      "approach": [
+        "Assess the current view of technology by surveying and interviewing key business stakeholders.",
+        "Assess the alignment and skills of the current business-facing technology team members and define a future-state plan to optimize the resources and alignment.",
+        "Develop business relationship management strategy and socialize it with business leadership to gain buy-in and alignment on shared objectives and team performance evaluation criteria."
+      ]
+    },
+    {
+      "bestPracticeId": "81601fa4-609c-4df3-8a78-52ea6d155be0",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Focus on the importance of enterprise-wide adoption of technology service changes across the organization.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Human Capital, Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Customer Satisfaction, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2743",
+      "approach": [
+        "Engage change management organization to plan change initiatives",
+        "Plan and draft change communications",
+        "Engage leaders and change champions to promote change initiatives",
+        "Obtain buy-in and adoption"
+      ]
+    },
+    {
+      "bestPracticeId": "9d6119ed-9490-482c-800d-ded878d159ab",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Follow configuration management process throughout solutions development life cycle (SDLC).",
+      "businessProcess": "Network Management",
+      "serviceDeliveryComponent": "Organization and Governance, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2602",
+      "approach": [
+        "Identify CIs to be included in the CMDB.",
+        "Control data to ensure that it can only be changed by authorized individuals.",
+        "Maintain status, which involves ensuring that current status of any CI is consistently recorded and kept updated.",
+        "Verify data is accurate through audits and reviews.",
+        "Assign technology steward to govern the process of the CMDB update."
+      ]
+    },
+    {
+      "bestPracticeId": "03af36d5-f28e-43e9-8f6f-af5a691573eb",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Foster a culture of continuous improvement through dedicated cross-functional teams.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3202",
+      "approach": [
+        "Establish continuous improvement teams that meet regularly to identify inefficiencies and propose solutions, ensuring participation from both IT and business stakeholders for balanced perspectives."
+      ]
+    },
+    {
+      "bestPracticeId": "e40682f5-0526-41a3-9793-75bfe3ae223f",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Have documented release plans for  development projects, including a risk control assessment (RCA).",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2603",
+      "approach": [
+        "Ensure detailed release plan documentation.",
+        "Build the release in consultation with the project team.",
+        "Ensure user acceptance testing provides signoff for the build being deployed, with quality assurance team conducting final checks on the release.&nbsp;",
+        "Conduct release performance assessment for lessons learned following the deployment of the release."
+      ]
+    },
+    {
+      "bestPracticeId": "58451218-0dd8-4a52-aea5-9d59df2337b6",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Hold technology leaders accountable to meet budget goals.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Cash Flow, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2735",
+      "approach": [
+        "Identify inconsistencies in technology spend tracking and implement a standard cost-tracking approach.",
+        "Include budget and cost reduction target achievement in individual performance objectives."
+      ]
+    },
+    {
+      "bestPracticeId": "4ec6b97d-b012-4f8e-ab05-6328ec026a3b",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Identify and closely track applicable service metrics to improve quality and responsiveness.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2617",
+      "approach": [
+        "Analyze available data (if available).",
+        "Tailor surveys and feedback process to incorporate key metrics.",
+        "Roll out assessments for all functions within the organization.",
+        "Enact assessments on all projects."
+      ]
+    },
+    {
+      "bestPracticeId": "d62fbf21-6b33-49b0-8868-31aca9adab10",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement a data quality strategy and approach with in-scope data elements, controls, and continuous improvement.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2625",
+      "approach": [
+        "Assess the current state of data quality and highlight improvement opportunities.",
+        "Establish a cross-functional team that will be responsible for data quality.",
+        "Define the baseline data quality strategy, approach and performance metrics.",
+        "Establish data quality controls to validate the data along business-critical processes, including business rules, tolerance limits, workflows, exception handling processes, escalation procedures, capturing data quality metrics and generating reports on data quality.",
+        "Ensure all in-scope data elements&nbsp; are reviewed on a regular basis for data quality dimensions, including completeness, duplications and redundancy."
+      ]
+    },
+    {
+      "bestPracticeId": "a37dedb3-e614-49b0-ad59-a8bd9e6b1021",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement a mature technology services management performance measurement framework.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Customer Satisfaction, Improve Quality",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3210",
+      "approach": [
+        "Establish a performance measurement framework with clear KPIs and metrics for IT service management, and implement regular reporting cycles to track progress and make data-driven improvements."
+      ]
+    },
+    {
+      "bestPracticeId": "34dbcfa1-3709-482b-861b-b3fed93b35d1",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement and regularly leverage performance measurement tools and processes.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2742",
+      "approach": [
+        "Identify key metrics.",
+        "Develop measurement tools and templates.",
+        "Develop regular cadence for governance and review process.",
+        "Evaluate metric applicability continuously and update as needed."
+      ]
+    },
+    {
+      "bestPracticeId": "cfe9bb44-d57a-42de-9ed8-13a334f7b08b",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement a rotation program for technology staff across functions, supporting multiple business areas.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3168",
+      "approach": [
+        "Set up a rotational schedule that ensures technology employees are rotated through various business units, and provide ongoing support through mentoring and knowledge-sharing sessions."
+      ]
+    },
+    {
+      "bestPracticeId": "bdd48587-4f72-4fb2-8061-28a403e7e83a",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement a smart automation center of excellence (CoE) for end-to-end process coordination across functions.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Next",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "> 12 Months",
+      "code": "2629",
+      "approach": [
+        "Establish a smart automation CoE to define the strategy and road map for smart automation development.",
+        "Evaluate end-to-end process coordination across functions, including technology and finance, etc., for automation opportunities.",
+        "Collect data from automations deployed enterprisewide to enable the continuous improvement program to drive process reengineering.",
+        "Make smart automation available to all the business units and functions, and promote the use as a shared capability.",
+        "Expand smart automation capabilities to include cognitive intelligence tools."
+      ]
+    },
+    {
+      "bestPracticeId": "2eb127cb-5bc2-4949-88cb-78f6c4baf556",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement automation in test scripts and use infrastructure as code (IaC) for infrastructure configuration.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2595",
+      "approach": [
+        "Implement IaC as the default infrastructure development tool.",
+        "Implement standards for automation in test scripts and include minimum requirements that warrant the time and effort for automation.",
+        "Work with business to get buy-in on the test automation and IaC strategy for the organization.",
+        "Make continuous integration and continuous delivery a common practice in the organization."
+      ]
+    },
+    {
+      "bestPracticeId": "5756d72a-ce24-4ba5-a27b-e685ae57e2f0",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement DevSecOps structure supporting multiple processes.",
+      "businessProcess": "Organization: Applications, Data, and Analytics",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Reduce Cycle Time",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2596",
+      "approach": [
+        "Create project prioritization process as part of the requirements pipeline to include business resources for input.",
+        "Align resources from plan, build, run teams to specific business functions that can service the business needs based on&nbsp; prioritization.",
+        "Implement a governance structure for having plan, build, run resources work in partnership on applications with frequent changes."
+      ]
+    },
+    {
+      "bestPracticeId": "eba4b34a-1234-4fc1-b866-de21cd165880",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement dynamic test coverage, trend analysis and cross-silo reporting.",
+      "businessProcess": "Information Data Sourcing & Integration",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3313",
+      "approach": [
+        "Deploy dynamic testing tools; establish cross-functional reporting systems; use data analytics to track trends and measure effectiveness of testing."
+      ]
+    },
+    {
+      "bestPracticeId": "1d07f3ec-c5f8-46f7-a50f-0df892fd8a28",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement internal tools to manage and control key master data across the enterprise.",
+      "businessProcess": "Information Data Sourcing & Integration",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2609",
+      "approach": [
+        "Create a data mapping of all the data elements used by the enterprise system.",
+        "Create tables, foreign keys and links to connect the data warehouse with the databases of the enterprise systems.",
+        "Conduct data migration to move historical data that is required for compliance, operations or regulatory purposes, following implementation of data warehouse."
+      ]
+    },
+    {
+      "bestPracticeId": "2a26b0ca-9c92-478c-b7f2-2e387c52f36d",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement intrusion detection software and encryption to safeguard nonpublic information.",
+      "businessProcess": "Risk & Security  Management",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "3249",
+      "approach": [
+        "Deploy intrusion detection systems (IDS) and encryption tools; ensure regular updates; train staff on security best practices and incident response."
+      ]
+    },
+    {
+      "bestPracticeId": "542b7d89-4dae-4a03-845f-ec9c6d26aa1f",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement network capacity and performance monitoring, and store accurate network information within the configuration management database (CMDB).",
+      "businessProcess": "Network Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Provide Better Information",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "2599",
+      "approach": [
+        "Identify CIs to be included in the CMDB.",
+        "Control data to ensure that it can only be changed by authorized individuals.",
+        "Maintain status, which involves ensuring that the current status of any CI is consistently recorded and kept updated.",
+        "Verify the data is accurate through audits and reviews."
+      ]
+    },
+    {
+      "bestPracticeId": "1e73b1b3-84eb-4108-9fe8-35b7feada483",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement proactive capacity and performance monitoring with accurate data stored in the configuration management database (CMDB).",
+      "businessProcess": "Network Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3256",
+      "approach": [
+        "Deploy monitoring tools for real-time capacity and performance tracking; integrate the data into the CMDB; create alerts for critical thresholds."
+      ]
+    },
+    {
+      "bestPracticeId": "a1ffeace-1705-492a-b5a4-115ad58ec0ff",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Implement single enterprise resource planning (ERP) systems and partner applications for advanced functionality.",
+      "businessProcess": "SaaS Configuration, Integration and Support",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Next",
+      "themes": "Align to Strategy, Improve Cash Flow, Improve Productivity, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3245",
+      "approach": [
+        "Conduct a comprehensive needs assessment; select and implement a unified ERP system; ensure phased rollouts to minimize business disruptions."
+      ]
+    },
+    {
+      "bestPracticeId": "86320575-a39a-4a7e-b488-239d9f9d74fd",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Improve internal capabilities and develop skills for internal staff through strategic partnerships.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Service Design, Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Improve Productivity, Improve Quality, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2738",
+      "approach": [
+        "Develop a sourcing strategy.",
+        "Develop appropriate service delivery model.",
+        "Enact a partnership engagement model with service partners."
+      ]
+    },
+    {
+      "bestPracticeId": "b8c338d5-df73-4181-88ba-37dac5d69c51",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Incorporate technology business partners in description.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Customer Satisfaction, Improve Productivity, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2699",
+      "approach": [
+        "Evaluate how technology resources are currently integrated with their business partners and level of business knowledge.",
+        "Set objectives with business integration, and provide each team member constructive feedback and opportunities to develop their business knowledge.",
+        "Align process and application subject matter experts (SMEs) in cross-functional teams, with common goals and performance evaluation criteria."
+      ]
+    },
+    {
+      "bestPracticeId": "edbee8ad-2b76-44a1-bdee-8b74272393bf",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ingrain a culture of change across the organization for continuous improvement.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3220",
+      "approach": [
+        "Promote a culture of adaptability by encouraging continuous feedback loops, offering regular training, and recognizing teams that drive successful change initiatives."
+      ]
+    },
+    {
+      "bestPracticeId": "20819b3d-111c-4430-8881-d790f8f8e194",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Ingrain a culture of change within the organization.",
+      "businessProcess": "Change Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "2760",
+      "approach": [
+        "Encourage and train employees to not be satisfied with the status quo.",
+        "Develop a safety net to ensure employees are not deterred from undertaking change initiatives.",
+        "Identify ways/programs to encourage, promote and incentivize change."
+      ]
+    },
+    {
+      "bestPracticeId": "cac4b85d-07e0-43b9-918f-321f00eacfbc",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Initiate projects with an automated approval process to integrate the portfolio, staffing and budgeting processes.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Human Capital, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2589",
+      "approach": [
+        "Implement an automated project and portfolio management tool.",
+        "Define the automated initiation process with exception criteria and approval stage gates.",
+        "Migrate existing projects into the tool for improved metrics.",
+        "Conduct continuous improvement exercises to identify bottlenecks and efficiency gains."
+      ]
+    },
+    {
+      "bestPracticeId": "27e7b373-afd4-47b7-a2b1-4f1318742f59",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Integrate business and technology roles within agile and product teams.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3309",
+      "approach": [
+        "Create cross-functional agile teams that include business and technology roles; define responsibilities for each role; foster regular collaboration."
+      ]
+    },
+    {
+      "bestPracticeId": "24922262-4806-4fc0-9225-81660098dc06",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Invest in new technologies like generative artificial intelligence (Gen AI).",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Next",
+      "themes": "Align to Strategy, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3201",
+      "approach": [
+        "Begin with pilot programs to explore the benefits of new technologies such as AI, measure their impact, and scale successful projects across the organization with clear business use cases."
+      ]
+    },
+    {
+      "bestPracticeId": "985e44f8-33fe-4167-873d-543c17309509",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Leverage analytics and dynamic reporting to evaluate operational health, focusing on technology and business impact.",
+      "businessProcess": "Information & Data Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2615",
+      "approach": [
+        "Perform current-state assessment.",
+        "Identify key metrics and implement tools to track them.",
+        "Review trends routinely and use data to drive decisions."
+      ]
+    },
+    {
+      "bestPracticeId": "429c6b6a-5a05-46c4-9cf1-dd8f817ebb85",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Leverage big data management, business intelligence and cognitive intelligence for smart automation.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Next",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3311",
+      "approach": [
+        "Implement big data platforms; use BI tools for data insights; integrate AI/ML algorithms for cognitive automation; establish a data governance framework."
+      ]
+    },
+    {
+      "bestPracticeId": "56b1840f-f410-4903-88dc-ae0c1a81bf26",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Leverage centralization and outsourcing to provide high-level support at lower costs.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2614",
+      "approach": [
+        "Perform current-state assessment of the organization.",
+        "Develop target state, detailing dedicated team within a centralized support structure.",
+        "Centralize vendor management structure."
+      ]
+    },
+    {
+      "bestPracticeId": "b8b19cab-b1d2-413e-ae2b-98f734039392",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Leverage external providers and centralized vendor management to optimize cost and service delivery.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Best",
+      "themes": "Enhance Sourcing Effectiveness, Improve Cash Flow, Improve Productivity",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3266",
+      "approach": [
+        "Centralize vendor management processes; negotiate clear SLAs with providers; monitor performance and costs regularly to optimize service delivery."
+      ]
+    },
+    {
+      "bestPracticeId": "f210ddee-46d7-4452-9043-637f03fbea56",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Leverage global enterprise resource planning (ERP) to enable shared services for selling, general and administrative (SG&A) functions.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3177",
+      "approach": [
+        "Conduct a detailed needs analysis across regions, implement a phased rollout of the ERP system with extensive user training, and ensure ongoing support through a centralized helpdesk and knowledge base."
+      ]
+    },
+    {
+      "bestPracticeId": "804e061f-0ea5-4cbe-afaa-ee392ecd924c",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Leverage strategic partners at standard and competitive costs, without overcommitment and overreliance on a single vendor.",
+      "businessProcess": "Technology Vendor Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Partnering",
+      "certificationStatus": "Best",
+      "themes": "Enhance Sourcing Effectiveness, Improve Cash Flow, Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2773",
+      "approach": [
+        "Identify key suppliers.",
+        "Develop standard catalog and price list with key suppliers.",
+        "Develop a central vendor management organization (VMO) that is responsible for executing strategy and identifying and driving key initiatives. VMO tracks and updates price lists and service catalog on a regular basis."
+      ]
+    },
+    {
+      "bestPracticeId": "b4b2cb0d-967c-4d6e-9b34-3d3b58651439",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Leverage tools and traceability matrices for developing requirements jointly with users.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Customer Satisfaction, Improve Quality, Manage Risk, Reduce Cycle Time, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2711",
+      "approach": [
+        "Assess the current state of the requirements development process.",
+        "Interview project sponsors and team members to identify areas of improvement.",
+        "Ensure the process aligns the business with technology team members to define business processes and align technology requirements.",
+        "Ensure that there is a formal requirements change control and approval process, along with traceability of requirements."
+      ]
+    },
+    {
+      "bestPracticeId": "6670da8b-005e-428d-a6a6-a7578c0ad23c",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Maintain a knowledge repository for continuous improvement and knowledge sharing.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Customer Satisfaction, Improve Quality",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3214",
+      "approach": [
+        "Create a centralized knowledge repository accessible across the organization, regularly update it with best practices and lessons learned, and promote its use through ongoing training and support."
+      ]
+    },
+    {
+      "bestPracticeId": "49b36b7a-3e63-4966-9f6f-009063939d40",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Maintain compliance with regular reviews of controls and segregation of duties.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3213",
+      "approach": [
+        "Implement a governance framework that includes periodic audits of control processes, ensuring compliance with regulations and segregation of duties to minimize risk."
+      ]
+    },
+    {
+      "bestPracticeId": "b959a420-6cb7-4b4e-bd0e-dd37221ad31f",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Maintain traceability of requirements throughout the entire solutions development life cycle (SDLC).",
+      "businessProcess": "Application Update Development & Deployment",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3304",
+      "approach": [
+        "Use requirement management tools to track changes across the SDLC; integrate traceability into the development and testing process; conduct periodic audits."
+      ]
+    },
+    {
+      "bestPracticeId": "e779d75b-608d-4f2e-b9c1-cd0fcf29772d",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Monitor baseline schedules and budgets, creating corrective action plans for projects at risk.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Manage Risk, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3237",
+      "approach": [
+        "Establish clear baselines for project schedules and budgets; implement regular status reviews; develop corrective action frameworks for at-risk projects."
+      ]
+    },
+    {
+      "bestPracticeId": "283ceffd-de88-4bd8-8128-129b21c99074",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Offer standardized technology training and identify skill gaps through help desk trends.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Best",
+      "themes": "Improve Customer Satisfaction, Improve Quality",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3208",
+      "approach": [
+        "Develop a continuous training program based on help desk trends, ensuring that employees are regularly trained in the latest tools and processes to close skill gaps and improve efficiency."
+      ]
+    },
+    {
+      "bestPracticeId": "09cd2742-3c2a-4b21-b528-f2569ff87cca",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Optimize on-prem and cloud hosting infrastructure.",
+      "businessProcess": "Data Center Management (Storage & Compute)",
+      "serviceDeliveryComponent": "Organization and Governance, Technology",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "2598",
+      "approach": [
+        "Create a business case for consolidation of data centers.",
+        "Document current application portfolio and their data requirements with a list of critical data elements.",
+        "Create a defined strategy that has been signed off on by the enterprise architecture and information security teams.",
+        "Implement change management for the effort to ensure affected systems and groups are involved in the effort."
+      ]
+    },
+    {
+      "bestPracticeId": "d7ce43b4-2227-464d-bc4c-6e02f3cb3049",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Optimize project testing by leveraging automation in processes, and verify business value.",
+      "businessProcess": "Application Update Development & Deployment",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Manage Risk, Reduce Cycle Time, Reduce Error Rate",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2612",
+      "approach": [
+        "Document current approach to testing and identify best places to integrate automated tests.",
+        "Introduce automation to the existing technology stack instead to speed up the automation process (versus introducing tools with automation and then adapting the technology stack to it).",
+        "Integrate automation as a mindset in the organization to make it part of the culture.",
+        "Assess and improve the testing automation strategy periodically to keep current with industry best practices."
+      ]
+    },
+    {
+      "bestPracticeId": "8aee0bd8-58c3-48cc-8cc7-bff502681ec6",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Optimize release and deployment by leveraging automation in processes.",
+      "businessProcess": "Application Update Development & Deployment",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Reduce Cycle Time, Reduce Error Rate",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2611",
+      "approach": [
+        "Configure CMDB to include information on all underlying components of each application along with the latest versions.",
+        "Create deployment scripts for standard deployment for each application.",
+        "Leverage industry best practices such as multiple build machines, full automatic database deploys and zero touch continuous deployments.",
+        "Conduct periodic review and testing of the deployment scripts to ensure they are current."
+      ]
+    },
+    {
+      "bestPracticeId": "f9d494e1-cfa0-4599-bcba-099f3829d754",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Partner with business units to evaluate where technology can improve operations.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Manage Risk, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3200",
+      "approach": [
+        "Set up collaborative evaluation sessions where IT and business units identify areas for technology-driven improvements, and create joint initiatives to address these opportunities."
+      ]
+    },
+    {
+      "bestPracticeId": "c8685fee-263e-4557-8b30-65439ccbd2f1",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Partner with the business on piloting emerging technologies.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Cash Flow, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2733",
+      "approach": [
+        "Assess the current state of emerging technology adoption within your organization.",
+        "Assess the business strategy and (if it supports) technology enablement.",
+        "Align knowledge technology team members with key business stakeholders.",
+        "Define a strategy to identify and evaluate opportunities for technology enablement.",
+        "Align the combined team incentives to drive innovation that develops competitive advantages."
+      ]
+    },
+    {
+      "bestPracticeId": "ba8be087-2075-4876-a4b4-36e516332d28",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Perform project development on approved documents, leveraging a project plan with deliverable assignments and milestones.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2593",
+      "approach": [
+        "Abide by the methodology stage gates to get approvals on business and system requirements, and ensure development is performed on those documents.",
+        "Follow a formal process and require approvals from business and IT sponsors for change requests to the approved documents.",
+        "Create and maintain project plans as a core component of the methodology."
+      ]
+    },
+    {
+      "bestPracticeId": "3ef43acf-3c37-4ade-9370-72e4088a2e91",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Plan projects leveraging historical project data, with program management office (PMO) measuring project performance.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2588",
+      "approach": [
+        "Establish an EPMO to govern processes and procedures for all projects.",
+        "Define standards, policies and procedures for project planning using industry-leading methodologies.",
+        "Consult the EPMO resources prior to project initiation."
+      ]
+    },
+    {
+      "bestPracticeId": "759c7d95-8f13-4df3-8c6e-856e9a94df26",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Position technology as a key enabler of business growth.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3183",
+      "approach": [
+        "Elevate the role of IT by showcasing successful technology-driven projects in executive forums, while also ensuring IT is involved in the strategic planning processes of business units."
+      ]
+    },
+    {
+      "bestPracticeId": "b1a1b4d5-69e2-4b27-a398-7e5dee952923",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Present joint technology and business budget requests to align investments with strategy.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Cash Flow",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3192",
+      "approach": [
+        "Establish a joint planning and budgeting process where IT and business leaders work together to create aligned investment proposals that reflect both technology and business priorities."
+      ]
+    },
+    {
+      "bestPracticeId": "6f086e72-3945-4886-a4b7-3a3e824eff50",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Present technology opportunities proactively to business partners for strategic growth.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Manage Risk",
+      "levelOfEffort": "Low",
+      "timeFrame": "4-12 Months",
+      "code": "3181",
+      "approach": [
+        "Set up regular meetings between IT leadership and business units to present new technology trends, with a focus on how emerging technologies can drive growth and operational improvements."
+      ]
+    },
+    {
+      "bestPracticeId": "0d616865-d36a-4508-8f99-236bab5578f8",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Promote cross-functional experience for technology resources across the business.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality",
+      "levelOfEffort": "Low",
+      "timeFrame": "4-12 Months",
+      "code": "3163",
+      "approach": [
+        "Develop a structured rotational program where technology staff work across various business departments, ensuring they are exposed to different functions while receiving necessary support and mentoring."
+      ]
+    },
+    {
+      "bestPracticeId": "56291527-d1ec-41e9-990a-3e8301cb57d4",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Publish a technology services catalog covering over 75% of services for portfolio transparency.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Best",
+      "themes": "Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3188",
+      "approach": [
+        "Develop a standardized services catalog outlining available IT services, establish clear service-level agreements (SLAs), and make the catalog easily accessible to business units through a centralized portal."
+      ]
+    },
+    {
+      "bestPracticeId": "95892b07-4f73-4fe2-8796-5f0c88da7919",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Reduce the number of small, ad hoc enhancement requests, and focus on building releases.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2715",
+      "approach": [
+        "Assess the current demand management process for enhancements and assess performance.",
+        "Ensure there are well-defined and standardized filtering criteria for incoming requests to minimize noise.",
+        "Ensure that a forum has been established with business stakeholder participation to review, approve and prioritize requests.",
+        "Ensure there is a mechanism to effectively schedule development and implementation.",
+        "Establish a feedback loop for customer satisfaction to ensure the process is suitable."
+      ]
+    },
+    {
+      "bestPracticeId": "eb778275-0c53-43b1-b4eb-eddf72d3fb52",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Review and adjust technology projects to address changing business priorities.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3193",
+      "approach": [
+        "Set up a project governance committee that regularly reviews and reprioritizes IT projects based on changing business needs, ensuring flexibility in resource allocation to meet new priorities."
+      ]
+    },
+    {
+      "bestPracticeId": "829e2836-cc65-4d3c-becf-57828b46f01b",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Review and update technology strategy periodically to align with organizational goals and strategies.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3264",
+      "approach": [
+        "Schedule regular reviews of technology strategy; align strategy with evolving business goals; solicit feedback from business leaders and adjust accordingly."
+      ]
+    },
+    {
+      "bestPracticeId": "ba8ecda4-a37f-4d0c-98c5-3d020c50a415",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Review regularly and staff technology functions with appropriate resources based on business needs.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Manage Risk",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3225",
+      "approach": [
+        "Conduct regular workforce planning reviews to assess current and future technology staffing needs, and adjust hiring or resourcing plans to ensure teams are well-equipped to meet business demands."
+      ]
+    },
+    {
+      "bestPracticeId": "516dbf6f-9ee6-4a4a-8789-b8288e6d9192",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Review risks and mitigation plans regularly with management and stakeholders.",
+      "businessProcess": "Risk & Security  Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3267",
+      "approach": [
+        "Create a structured risk management framework; conduct regular risk reviews with stakeholders; update mitigation plans as new risks emerge."
+      ]
+    },
+    {
+      "bestPracticeId": "c49b0570-4296-42c5-a409-9daeab0dadbd",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Separate development from support, aligning teams based on skill levels and project complexity.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Human Capital",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3315",
+      "approach": [
+        "Evaluate team skills and project complexity; assign resources accordingly; ensure both development and support teams have the right tools and processes."
+      ]
+    },
+    {
+      "bestPracticeId": "bc15a9ef-6954-4a5d-96d1-c37f1bb155cf",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Standardize and regularly benchmark cost of technology services, and closely control associated budgets.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Cash Flow, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2736",
+      "approach": [
+        "Identify work done outside of technology that should be transitioned to and managed by technology.",
+        "Identify technology owners.",
+        "Develop standard processes to offer support.",
+        "Define cadence, and benchmark services against similar market offerings."
+      ]
+    },
+    {
+      "bestPracticeId": "eb4b7b4c-8c8f-426f-af57-bbd373531d53",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Standardize configuration management and release processes with real-time technology asset inventory updates.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Quality, Manage Risk, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3260",
+      "approach": [
+        "Use configuration management tools to automate asset inventory updates; standardize release processes with a focus on reducing errors and improving agility."
+      ]
+    },
+    {
+      "bestPracticeId": "7c75670c-d850-4a4e-915c-d0646ec07fa9",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Standardize enterprise platforms that are integrated to support core business capabilities.",
+      "businessProcess": "Enterprise Architecture & Emerging Technologies",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "2701",
+      "approach": [
+        "Review the current state of enterprise technology platforms, and assess the level of integration and opportunities for improvement.",
+        "Standardize business processes as needed to facilitate standardization on a single platform supporting associated business capabilities.",
+        "Define a technology road map that drives standardization and integration."
+      ]
+    },
+    {
+      "bestPracticeId": "4a266663-64c6-428c-89d3-3ea7c52308ac",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Standardize help desk processes while offering customized support options based on business needs.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Best",
+      "themes": "Improve Customer Satisfaction, Improve Productivity, Improve Quality, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3263",
+      "approach": [
+        "Implement a help desk management system; create standardized workflows; offer customized options for high-priority business users where needed."
+      ]
+    },
+    {
+      "bestPracticeId": "7bf620da-cc41-4461-b2ef-e0c6ba0c837f",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Streamline and centralize help desk support, while providing customized and dedicated support.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2616",
+      "approach": [
+        "Assess current state of the help desk support structure.",
+        "Standardize processes and tools.",
+        "Develop escalation process to streamline response approach."
+      ]
+    },
+    {
+      "bestPracticeId": "e734d5a2-828f-4639-af6f-98385f7e6d11",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Structure support functions to ensure speed and efficiency with standardized processes and tools.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Customer Satisfaction, Improve Productivity, Improve Quality, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3316",
+      "approach": [
+        "Implement standard operating procedures for support teams; deploy tools to monitor performance; optimize workflows for faster issue resolution."
+      ]
+    },
+    {
+      "bestPracticeId": "e4a518af-5a7c-4005-be82-a760c5f26df2",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Structure technology support to optimize efficiency and productivity.",
+      "businessProcess": "Organization: Planning and Management",
+      "serviceDeliveryComponent": "Human Capital, Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Manage Risk, Simplify and Standardize",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2766",
+      "approach": [
+        "Identify required supporting resources.",
+        "Develop expected level of service and type of support.",
+        "Align expectations and incentives (e.g., personal performance of supporting functions is tied to overall compensation).",
+        "Develop cadence to review metrics on a regular basis and adjust as needed."
+      ]
+    },
+    {
+      "bestPracticeId": "f4242cf4-e951-4b4d-8482-ffc94ffa2f32",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Support immediate post go-live of major systems with a dedicated team and strong transition plan.",
+      "businessProcess": "End User Support",
+      "serviceDeliveryComponent": "Service Partnering",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2613",
+      "approach": [
+        "Identify and assign stakeholders from technology and business.",
+        "Develop a launch process jointly, including transition steps, hypercare and length of support after transition.",
+        "Define acceptance criteria.",
+        "Execute plans as defined."
+      ]
+    },
+    {
+      "bestPracticeId": "2d2d06f7-0b78-45de-8dae-1b1e33d8a7a7",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Track all service-level agreements (SLAs) centrally, with a defined process for root cause analysis and corrective action.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Analytics and Information Management, Service Design",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Provide Better Information, Reduce Error Rate",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2606",
+      "approach": [
+        "Establish the performance management framework based on business objectives and IT enablement factors.",
+        "Identify key performance indicators that can be reported to management to detect hurdles and track performance.",
+        "Identify the owners of the performance management process, as well as the responsible parties for the dashboard design, development and maintenance.",
+        "Review technology options that can be used to deliver the dashboards.",
+        "Revise performance management framework based on lessons learned and industry standards."
+      ]
+    },
+    {
+      "bestPracticeId": "eb1ff379-cd3c-4bb6-ac90-8b6154c8b250",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Track and approve infrastructure projects as part of the portfolio planning process.",
+      "businessProcess": "Infrastructure Development & Deployment",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Quality, Manage Risk, Reduce Cycle Time",
+      "levelOfEffort": "Medium",
+      "timeFrame": "0-3 Months",
+      "code": "2597",
+      "approach": [
+        "Create an automated project portfolio management tool to have the option for adding an infrastructure project.",
+        "Include run group members during the project life cycle from the requirements phase onwards.",
+        "Include stage gate approvals from the run group prior to project deployment."
+      ]
+    },
+    {
+      "bestPracticeId": "c1bf58d5-ea34-4bd7-b681-f3d10a3f46b0",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Track and measure performance metrics for all functions, ensuring accountability for leaders.",
+      "businessProcess": "Project Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3232",
+      "approach": [
+        "Define key performance indicators (KPIs) for each function; implement a centralized tracking system; review metrics regularly with leadership."
+      ]
+    },
+    {
+      "bestPracticeId": "8254bc7b-e73b-40ed-9956-482bc7d07ef2",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Track metrics for effectiveness and continuous improvements throughout the solutions development life cycle (SDLC).",
+      "businessProcess": "Application Update Development & Deployment",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3303",
+      "approach": [
+        "Implement tools to measure SDLC stages; create feedback loops for continuous improvement; ensure teams regularly review SDLC performance."
+      ]
+    },
+    {
+      "bestPracticeId": "3c32b9ba-047d-49a6-bc0a-563f8141760e",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Track operational costs and allocate them to business units for clear accountability.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Improve Cash Flow",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "3186",
+      "approach": [
+        "Implement a financial management system that tracks IT costs by department, ensuring that regular reports are shared with business units to drive transparency and accountability."
+      ]
+    },
+    {
+      "bestPracticeId": "4857b1a4-57aa-4963-8f91-9931fd74a16e",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Update technology strategy regularly to align with the overall organizational strategy.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Analytics and Information Management, Organization and Governance",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Increase Customer Satisfaction, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2769",
+      "approach": [
+        "Define and clearly articulate organizational strategy.",
+        "Obtain inputs and buy-in from all leaders.",
+        "Incorporate accomplishment of business goals into the performance goals of technology leaders."
+      ]
+    },
+    {
+      "bestPracticeId": "eef4c363-9271-4bbb-8a26-f4d321c6a0d2",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use agile approaches to development, with teams made up of business and IT resources.",
+      "businessProcess": "Technology Business Relationship Management",
+      "serviceDeliveryComponent": "Organization and Governance, Service Design",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Manage Risk, Reduce Cycle Time, Reduce Error Rate",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2700",
+      "approach": [
+        "Evaluate the software development methodologies that are currently in use across your organization.",
+        "Identify areas of standardization for a more agile methodology, and integrate plan, build, and key business stakeholders into projects.",
+        "Establish processes for good communication and handoffs between plan, build, run functions.",
+        "Create opportunities for team members to gain experience through a defined rotation program."
+      ]
+    },
+    {
+      "bestPracticeId": "b495524c-a3c6-4cfb-a05f-dbec7b7396ee",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use asset management tools  to monitor and update technology asset inventory in real time.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Service Design, Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Manage Risk, Provide Better Information, Reduce Cycle Time, Reduce Error Rate, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "4-12 Months",
+      "code": "2604",
+      "approach": [
+        "Build the asset inventory using multiple discovery sources (e.g., domain scan and network scan).",
+        "Track the complete life cycle of the assets.",
+        "Implement standard processes for asset management (e.g., IT infrastructure library and&nbsp; IT asset management).",
+        "Conduct self-audits to ensure compliance and comprehensiveness.",
+        "Improve the asset management processes continuously based on the latest industry standards."
+      ]
+    },
+    {
+      "bestPracticeId": "c952f983-607f-4b32-9f47-e2a1b266954e",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use cross-functional leadership to periodically review portfolio forecasts and adjust based on business priorities.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Organization and Governance",
+      "certificationStatus": "Foundational",
+      "themes": "Align to Strategy, Improve Cash Flow, Improve Productivity, Improve Quality, Increase Customer Satisfaction, Manage Risk, Provide Better Information, Simplify and Standardize",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "2720",
+      "approach": [
+        "Assess the current process for ongoing portfolio management, and identify opportunities for improvement.",
+        "Ensure the portfolios are allocated to regional and functional technology leaders, and that they work with their business counterparts to manage spending jointly.",
+        "Ensure an executive steering committee comprised of technology and business leadership regularly meets to review and revise the portfolio.",
+        "Assess the performance of the portfolio over time, and identify opportunities to improve the management process."
+      ]
+    },
+    {
+      "bestPracticeId": "894c1cdb-69ec-4c97-a4aa-b309d2e84a28",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use dynamic reporting and analytics to drive operational decisions and improve responsiveness.",
+      "businessProcess": "Technology Operations Management",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity, Improve Quality, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3262",
+      "approach": [
+        "Deploy dynamic reporting tools that integrate real-time data; train teams on how to use analytics for decision-making; implement dashboards for visibility."
+      ]
+    },
+    {
+      "bestPracticeId": "e1c85f47-24d9-48d3-a69d-942a2f0d3b50",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use outsourcing strategically to get better services, while retaining strategic decision-making aligned with corporate values.",
+      "businessProcess": "Technology Vendor Management",
+      "serviceDeliveryComponent": "Service Design, Service Partnering",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Enhance Sourcing Effectiveness, Improve Quality, Manage Risk",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "2749",
+      "approach": [
+        "Develop organizational structure that aligns technology resources with the business.",
+        "Identify areas that should be outsourced.",
+        "Develop sourcing approach and best practices, including primary/secondary vendors, location, service-level agreement requirements, etc.",
+        "Develop ongoing governance model."
+      ]
+    },
+    {
+      "bestPracticeId": "825f15b3-45dd-4e96-aeda-751489fcdcee",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use performance data for strategic decision-making and forecasting.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Analytics and Information Management",
+      "certificationStatus": "Best",
+      "themes": "Improve Quality, Provide Better Information",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3215",
+      "approach": [
+        "Implement advanced analytics tools to capture and analyze performance data, ensuring business leaders have access to real-time insights for better forecasting and strategic decision-making."
+      ]
+    },
+    {
+      "bestPracticeId": "07da5954-7b0e-49e6-9c03-fc70e14012da",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use performance data to make operational and strategic decisions and set strategic direction.",
+      "businessProcess": "Technology Oversight",
+      "serviceDeliveryComponent": "Analytics and Information Management, Technology",
+      "certificationStatus": "Best",
+      "themes": "Align to Strategy, Increase Customer Satisfaction, Provide Better Information",
+      "levelOfEffort": "Low",
+      "timeFrame": "0-3 Months",
+      "code": "2746",
+      "approach": [
+        "Identify key metrics and implement in measurement tools.",
+        "Develop regular cadence for governance and review process.",
+        "Use data and performance trends to drive strategic and operational decisions.",
+        "Evaluate metrics applicability continuously and update as needed."
+      ]
+    },
+    {
+      "bestPracticeId": "e6b34d04-7be2-4085-a58e-d080420f4307",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Use tools to monitor demand, costs, resources and assets for better management.",
+      "businessProcess": "Technology Demand & Portfolio Management",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Foundational",
+      "themes": "Improve Productivity",
+      "levelOfEffort": "Medium",
+      "timeFrame": "4-12 Months",
+      "code": "3187",
+      "approach": [
+        "Deploy a comprehensive IT management platform that consolidates demand, costs, resources, and asset tracking, ensuring proper training for managers on how to interpret and act on the data provided."
+      ]
+    },
+    {
+      "bestPracticeId": "3305c4fb-dcb3-46aa-b39e-ee72314535cc",
+      "programId": "932eba15-ce99-4bb0-83dc-0e227665599a",
+      "description": "Utilize continuous integration/continuous delivery (CI/CD) and infrastructure as code (IaC) for infrastructure management.",
+      "businessProcess": "Infrastructure Development & Deployment",
+      "serviceDeliveryComponent": "Technology",
+      "certificationStatus": "Best",
+      "themes": "Improve Productivity, Improve Quality, Reduce Cycle Time, Simplify and Standardize",
+      "levelOfEffort": "High",
+      "timeFrame": "> 12 Months",
+      "code": "3306",
+      "approach": [
+        "Implement CI/CD pipelines with infrastructure automation tools like Terraform or Ansible; train teams on DevOps best practices; ensure regular code commits and testing."
+      ]
+    }
+  ]
+}
